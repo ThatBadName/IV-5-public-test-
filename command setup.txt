@@ -1,0 +1,19 @@
+module.exports = {
+    name: '',
+    description: '',
+    category: '',
+    slash: ,
+    cooldown: ,
+    testOnly: ,
+    ownerOnly: ,
+    permissions: [''],
+    requireRoles: ,
+    options: [],
+    minArgs: ,
+    expectedArgs: '',
+    expectedArgsTypes: [''],
+
+    callback: async ({}) => {
+
+    }
+}
